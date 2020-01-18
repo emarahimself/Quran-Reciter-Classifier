@@ -12,4 +12,4 @@ The file `dataset.py` creates the dataset using the above explained process in f
 The classifier is created using pre-trained Resnet34 model (using fastai)
 
 ## Issues to check
-Classifier is yielding 100% validation accuracy so I might have missed up somewhere.
+Classifier is yielding 100% validation accuracy so I think have missed up somewhere, anyway this is a fun side-project, will check this later.
